@@ -1,0 +1,214 @@
+{
+  "en": {
+    "header": {
+      "home": "Home",
+      "about": "About",
+      "projects": "Projects",
+      "skills": "Skills",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "Ramon Iro-omo",
+      "subtitle": "Software Developer",
+      "description": "I build cool and accessible digital experiences for the web.",
+      "linkedinButton": "LinkedIn",
+      "contactButton": "Contact Me",
+      "scrollDown": "Scroll Down"
+    },
+    "about": {
+      "title": "About Me",
+      "paragraph1": "Hello! I'm Ramon a junior software developer. ",
+      "paragraph2": "Currently in an intership at the ABN AMRO, working on performance improvements on their internal application.",
+      "paragraph3": "When I'm not coding, you'll find me in the boxing gym, riding a motorcycle or playing video games. Anyways i'm always open to new opportunities and challenges, so feel free to reach out!"
+    },
+    "projects": {
+      "title": "My Projects",
+      "subtitle": "Here are some of my recent projects. Each one was built on monster energy and pure luck",
+      "codeButton": "Code",
+      "demoButton": "Live Demo",
+      "projects": [
+        {
+          "title": "Watkijkenwe",
+          "image": "/images/projects/watkijkenwe.png",
+          "description": "A Platform build to give movie recommendations for when you dont know what to watch",
+          "tags": [
+            "Next.js",
+            "Tailwind CSS",
+            "OpenAI API",
+            "TMDB API",
+            "Deepseek API"
+          ],
+          "liveDemo": "https://watkijkenwe.nl",
+          "github": "https://github.com/Realrubr2/watkijkenwe"
+        },
+        {
+          "title": "Embeddings-go",
+          "image": "/images/projects/embeddings-go.png",
+          "description": "A scraper that scrapes the recommended movies from the wired magazine so i can put the in the database and using opanai to create embeddings",
+          "tags": [
+            "TMDB API",
+            "Go",
+            "OpenAI API"
+          ],
+          "liveDemo": "No live demo",
+          "github": "https://github.com/Realrubr2/embeddings-go"
+        },
+        {
+          "title": "Pong-go",
+          "image": "/images/projects/pong-go.png",
+          "description": "Pong game, but in go, using the ebiten game engine",
+          "tags": [
+            "Go",
+            "Ebiten"
+          ],
+          "liveDemo": "https://github.com/Realrubr2/pong-go",
+          "github": "https://github.com/Realrubr2/pong-go"
+        }
+      ]
+    },
+    "skills": {
+      "title": "My Skills",
+      "subtitle": "These are the technologies and tools I work with on a regular basis.",
+      "categories": {
+        "languages": "Languages",
+        "frameworks": "Frameworks",
+        "tools": "Tools"
+      }
+    },
+    "contact": {
+      "title": "Get In Touch",
+      "subtitle": "Have a project in mind or just want to say hello? Feel free to reach out!",
+      "info": {
+        "title": "Contact Information",
+        "email": "Email",
+        "location": "Location",
+        "locationValue": "Amsterdam NL"
+      },
+      "social": {
+        "title": "Follow Me"
+      },
+      "form": {
+        "title": "Let's talk",
+        "namePlaceholder": "Ramon Iro-omo",
+        "emailPlaceholder": "ramon.iroomo2025@gmail.com",
+        "messagePlaceholder": "Your Message",
+        "submitButton": "Send Message",
+        "whatsappPrompt": "Feel free to message me on WhatsApp"
+      }
+    },
+    "footer": {
+      "copyright": "© {year} Ramon Iro-omo. All rights reserved.",
+      "terms": "Terms of Service",
+      "privacy": "Privacy"
+    },
+    "languageSwitcher": {
+      "language": "Language"
+    }
+  },
+  "nl": {
+    "header": {
+      "home": "Home",
+      "about": "Over mij",
+      "projects": "Projecten",
+      "skills": "Vaardigheden",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "Ramon Iro-omo",
+      "subtitle": "Software Developer",
+      "description": "Ik zit gewoon teveel achter de computer",
+      "linkedinButton": "LinkedIn",
+      "contactButton": "contact",
+      "scrollDown": "Scroll naar beneden"
+    },
+    "about": {
+      "title": "Over mij",
+      "paragraph1": "Hallo! Ik ben Ramon, en ik ben een software developer",
+      "paragraph2": "Momenteel loop ik stage bij ABN AMRO, waar ik werk aan het verbeteren van de performence bij hun interne applicatie. Dit doe ik naast mijn studie waar het laatste semester van mijn associate degree in volle gang is, en de overstap naar de deeltijd bachelor is al geregeld.",
+      "paragraph3": "Als ik niet aan het coderen ben vind je me in de boksschool, op de motor of aan het gamen. Hoe dan ook sta altijd open voor nieuwe kansen en uitdagingen"
+    },
+    "projects": {
+      "title": "Mijn Projecten",
+      "subtitle": "Hier zijn een aantal van mijn recente projecten. Elk project is gebouwd met behulp monster energy en heel veel rubber duck debugging",
+      "codeButton": "Code",
+      "demoButton": "Live Demo",
+      "projects": [
+        {
+          "title": "Watkijkenwe",
+          "image": "/images/projects/watkijkenwe.png",
+          "description": "Een platform dat filmaanbevelingen geeft voor wanneer je niet weet wat je moet kijken.",
+          "tags": [
+            "Next.js",
+            "Tailwind CSS",
+            "OpenAI API",
+            "TMDB API",
+            "Deepseek API"
+          ],
+          "liveDemo": "https://watkijkenwe.nl",
+          "github": "https://github.com/Realrubr2/watkijkenwe"
+        },
+        {
+          "title": "Embeddings-go",
+          "image": "/images/projects/embeddings-go.png",
+          "description": "Een scraper die aanbevolen films van Wired magazine verzamelt en met behulp van OpenAI embeddings genereert voor de database.",
+          "tags": [
+            "TMDB API",
+            "Go",
+            "OpenAI API"
+          ],
+          "liveDemo": "",
+          "github": "https://github.com/Realrubr2/embeddings-go"
+        },
+        {
+          "title": "Pong-go",
+          "image": "/images/projects/pong-go.png",
+          "description": "Pong-spel, maar dan in Go, gebouwd met de Ebiten game engine.",
+          "tags": [
+            "Go",
+            "Ebiten"
+          ],
+          "liveDemo": "https://github.com/Realrubr2/pong-go",
+          "github": "https://github.com/Realrubr2/pong-go"
+        }
+      ]
+    },
+    "skills": {
+      "title": "Mijn Vaardigheden",
+      "subtitle": "Dit zijn de technologieën en tools waarmee ik regelmatig werk.",
+      "categories": {
+        "languages": "Talen",
+        "frameworks": "Frameworks",
+        "tools": "Tools"
+      }
+    },
+    "contact": {
+      "title": "Neem contact op",
+      "subtitle": "Heb je een project in gedachten of wil je gewoon hallo zeggen? Stuur mij gerust een berichtje!",
+      "info": {
+        "title": "Contactinformatie",
+        "email": "E-mail",
+        "location": "Locatie",
+        "locationValue": "Amsterdam NL"
+      },
+      "social": {
+        "title": "Volg mij"
+      },
+      "form": {
+        "title": "Laten we praten",
+        "namePlaceholder": "Ramon Iro-omo",
+        "emailPlaceholder": "ramon.iroomo2025@gmail.com",
+        "messagePlaceholder": "Je bericht",
+        "submitButton": "Bericht versturen",
+        "whatsappPrompt": "Stuur me gerust een berichtje op WhatsApp"
+      }
+    },
+    "footer": {
+      "copyright": "© {year} Ramon Iro-omo. Alle rechten voorbehouden.",
+      "terms": "Gebruiksvoorwaarden",
+      "privacy": "Privacy"
+    },
+    "languageSwitcher": {
+      "language": "Taal"
+    }
+  }
+}
