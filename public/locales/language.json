@@ -18,7 +18,7 @@
     "about": {
       "title": "About Me",
       "paragraph1": "Hello! I'm Ramon a junior software developer. ",
-      "paragraph2": "Currently in an intership at the ABN AMRO, working on performance improvements on their internal application.",
+      "paragraph2": "When I'm working, I work in a structured way, think in terms of solutions, and believe that good communication is just as important as good code. Teamwork and knowledge sharing come naturally to me. After all, you get further together.",
       "paragraph3": "When I'm not coding, you'll find me in the boxing gym, riding a motorcycle or playing video games. Anyways i'm always open to new opportunities and challenges, so feel free to reach out!"
     },
     "projects": {
@@ -123,13 +123,13 @@
     },
     "about": {
       "title": "Over mij",
-      "paragraph1": "Hallo! Ik ben Ramon, en ik ben een software developer",
-      "paragraph2": "Momenteel loop ik stage bij ABN AMRO, waar ik werk aan het verbeteren van de performence bij hun interne applicatie. Dit doe ik naast mijn studie waar het laatste semester van mijn associate degree in volle gang is, en de overstap naar de deeltijd bachelor is al geregeld.",
-      "paragraph3": "Als ik niet aan het coderen ben vind je me in de boksschool, op de motor of aan het gamen. Hoe dan ook sta altijd open voor nieuwe kansen en uitdagingen"
+      "paragraph1": "Hallo! Ik ben Ramon, een junior software developer",
+      "paragraph2": "Als ik aan de slag ben dan werk ik gestructureerd, denk in oplossingen en geloof dat goede communicatie minstens zo belangrijk is als goede code. Teamwork en kennisdeling zijn voor mij vanzelfsprekend. Samen kom je namelijk verder.",
+      "paragraph3": "Als ik niet aan het coderen ben vind je me in de boksschool, op de motor of aan het gamen(meestal). Hoe dan ook sta altijd open voor nieuwe kansen en uitdagingen"
     },
     "projects": {
       "title": "Mijn Projecten",
-      "subtitle": "Hier zijn een aantal van mijn recente projecten. Elk project is gebouwd met behulp monster energy en heel veel rubber duck debugging",
+      "subtitle": "Hier zijn een aantal van mijn recente projecten.",
       "codeButton": "Code",
       "demoButton": "Live Demo",
       "projects": [
