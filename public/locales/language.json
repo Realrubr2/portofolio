@@ -10,16 +10,35 @@
     "hero": {
       "title": "Ramon Iro-omo",
       "subtitle": "Software Developer",
-      "description": "I build cool and accessible digital experiences for the web.",
+      "description": "I spend to much time behind the computer",
       "linkedinButton": "LinkedIn",
       "contactButton": "Contact Me",
       "scrollDown": "Scroll Down"
     },
     "about": {
-      "title": "About Me",
-      "paragraph1": "Hello! I'm Ramon a junior software developer. ",
-      "paragraph2": "When I'm working, I work in a structured way, think in terms of solutions, and believe that good communication is just as important as good code. Teamwork and knowledge sharing come naturally to me. After all, you get further together.",
-      "paragraph3": "When I'm not coding, you'll find me in the boxing gym, riding a motorcycle or playing video games. Anyways i'm always open to new opportunities and challenges, so feel free to reach out!"
+        "title": "About Me",
+        "paragraph1": "Hello! I'm Ramon, a 23-year-old software developer from Amsterdam. I am currently an intern at ABN AMRO as part of my Software Development studies at the Amsterdam University of Applied Sciences. In just two months, I will officially be able to call myself a junior developer.",
+        "paragraph2": "Before my studies, I worked in heating technology at Aquatech Europe. During an assignment at the Equinix data centers in Amsterdam, I discovered my passion for software development. Walking around in a building full of servers made me realize how much there is to achieve behind a computer.",
+        "paragraph3": "When I'm not coding, you'll find me in the boxing gym, gaming, or working on motorcycles. Friends often come to me with their broken bikes, and no matter what, I'm always ready to help. I'm also always open to new opportunities and challenges, so feel free to reach out!",
+        "paragraph4": "My favorites",
+        "thing1": "game",
+        "thing1-1": "War Thunder",
+        "thing2": "gaming platform",
+        "thing2-1": "PC",
+        "thing3": "TV series",
+        "thing3-1": "The Wire",
+        "thing4": "film series",
+        "thing4-1": "Pirates of the Caribbean",
+        "thing5": "website",
+        "thing5-1": "mcmaster.com",
+        "thing6": "car",
+        "thing6-1": "Porsche 718 Cayman",
+        "thing7": "My motorcycle",
+        "thing7-1": "Aprilia Shiver 750",
+        "thing8": "programming language",
+        "thing8-1": "Go",
+        "thing9": "IDE",
+        "thing9-1": "Vscode"
     },
     "projects": {
       "title": "My Projects",
@@ -61,7 +80,7 @@
             "Go",
             "Ebiten"
           ],
-          "liveDemo": "https://github.com/Realrubr2/pong-go",
+          "liveDemo": "https://github.com/Realrubr2/Pong-go/releases/tag/v1-windows",
           "github": "https://github.com/Realrubr2/pong-go"
         }
       ]
@@ -122,10 +141,29 @@
       "scrollDown": "Scroll naar beneden"
     },
     "about": {
-      "title": "Over mij",
-      "paragraph1": "Hallo! Ik ben Ramon, een junior software developer",
-      "paragraph2": "Als ik aan de slag ben dan werk ik gestructureerd, denk in oplossingen en geloof dat goede communicatie minstens zo belangrijk is als goede code. Teamwork en kennisdeling zijn voor mij vanzelfsprekend. Samen kom je namelijk verder.",
-      "paragraph3": "Als ik niet aan het coderen ben vind je me in de boksschool, op de motor of aan het gamen(meestal). Hoe dan ook sta altijd open voor nieuwe kansen en uitdagingen"
+        "title": "Over Mij",
+        "paragraph1": "Hallo! Ik ben Ramon, een 23-jarige softwaredeveloper uit Amsterdam. Momenteel ben ik stagiair bij ABN AMRO. Dit doe ik bij mijn opleiding Software Development aan de Hogeschool van Amsterdam. Dit betekent dat ik mezelf over twee maanden een junior developer kan noemen.",
+        "paragraph2": "Voor mijn studie werkte ik in de verwarmingstechniek bij Aquatech Europe. Hier kwam ik ook achter mijn passie voor software development na een klus bij de Equinix-datacenters in Amsterdam. Om rond te lopen in een gebouw vol met servers, gaf mij het besef dat er hoeveel er te bereiken valt achter de computer.",
+        "paragraph3": "In mijn vrije tijd vind je me in de boksschool, aan het gamen of aan het klussen aan motoren. Dit betekent dat vaak vrienden naar mij toe komen met hun kapotte motor. Hoe dan ook, ik sta altijd klaar om te helpen.",
+        "paragraph4": "Mijn favoriete",
+        "thing1": "Game",
+        "thing1-1": "War Thunder",
+        "thing2": "Platform",
+        "thing2-1": "PC",
+        "thing3": "Tv-serie",
+        "thing3-1": "The Wire",
+        "thing4": "Filmreeks",
+        "thing4-1": "Pirates of the Caribbean",
+        "thing5": "Website",
+        "thing5-1": "mcmaster.com",
+        "thing6": "Auto",
+        "thing6-1": "Porsche 718 Cayman",
+        "thing7": "Motor",
+        "thing7-1": "Aprilia Shiver 750 (die van mij)",
+        "thing8": "Programmeertaal",
+        "thing8-1": "Go",
+        "thing9": "IDE",
+        "thing9-1": "Vscode"
     },
     "projects": {
       "title": "Mijn Projecten",
@@ -167,7 +205,7 @@
             "Go",
             "Ebiten"
           ],
-          "liveDemo": "https://github.com/Realrubr2/pong-go",
+          "liveDemo": "https://github.com/Realrubr2/Pong-go/releases/tag/v1-windows",
           "github": "https://github.com/Realrubr2/pong-go"
         }
       ]

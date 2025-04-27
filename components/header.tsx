@@ -37,11 +37,17 @@ export function Header() {
     >
       <div className="container flex items-center justify-between h-16 px-4 md:px-6">
         <Link href="/" className="text-xl font-bold">
-          Realrubr2
+          Ramon
         </Link>
 
-        <div className="flex items-center gap-2">
+        <div className="hidden md:block absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 z-10">
           <div className="bg-muted/80 px-2 py-1 rounded-md shadow-sm">
+            <LanguageSwitcher />
+          </div>
+        </div>
+
+        <div className="flex items-center gap-2 md:static md:ml-auto">
+          <div className="bg-muted/80 px-2 py-1 rounded-md shadow-sm md:hidden">
             <LanguageSwitcher />
           </div>
 
