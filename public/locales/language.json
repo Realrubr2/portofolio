@@ -82,6 +82,16 @@
           ],
           "liveDemo": "https://github.com/Realrubr2/Pong-go/releases/tag/v1-windows",
           "github": "https://github.com/Realrubr2/pong-go"
+        },
+        {
+          "title": "Rijschool drive-it",
+          "image": "/images/projects/rijschool.png",
+          "description": "Website for a driving school, project made with another student",
+          "tags": [
+            "Wordpress"
+          ],
+          "liveDemo": "https://rijschooldriveit.nl/",
+          "github": ""
         }
       ]
     },
@@ -142,7 +152,7 @@
     },
     "about": {
         "title": "Over Mij",
-        "paragraph1": "Hallo! Ik ben Ramon, een 23-jarige softwaredeveloper uit Amsterdam. Momenteel ben ik stagiair bij ABN AMRO. Dit doe ik bij mijn opleiding Software Development aan de Hogeschool van Amsterdam. Dit betekent dat ik mezelf over twee maanden een junior developer kan noemen.",
+        "paragraph1": "Hallo! Ik ben Ramon, een 23-jarige softwaredeveloper uit Amsterdam. Momenteel ben ik stagiair bij ABN AMRO. Dit doe ik naast mijn opleiding Software Development aan de Hogeschool van Amsterdam. Dit betekent dat ik mezelf over twee maanden een junior developer kan noemen.",
         "paragraph2": "Voor mijn studie werkte ik in de verwarmingstechniek bij Aquatech Europe. Hier kwam ik ook achter mijn passie voor software development na een klus bij de Equinix-datacenters in Amsterdam. Om rond te lopen in een gebouw vol met servers, gaf mij het besef dat er hoeveel er te bereiken valt achter de computer.",
         "paragraph3": "In mijn vrije tijd vind je me in de boksschool, aan het gamen of aan het klussen aan motoren. Dit betekent dat vaak vrienden naar mij toe komen met hun kapotte motor. Hoe dan ook, ik sta altijd klaar om te helpen.",
         "paragraph4": "Mijn favoriete",
@@ -207,6 +217,16 @@
           ],
           "liveDemo": "https://github.com/Realrubr2/Pong-go/releases/tag/v1-windows",
           "github": "https://github.com/Realrubr2/pong-go"
+        },  
+         {
+          "title": "Rijschool drive-it",
+          "image": "/images/projects/rijschool.png",
+          "description": "Website voor een rijschool gebouwd met een mede student",
+          "tags": [
+            "Wordpress"
+          ],
+          "liveDemo": "https://rijschooldriveit.nl/",
+          "github": ""
         }
       ]
     },

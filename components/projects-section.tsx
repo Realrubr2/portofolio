@@ -108,18 +108,20 @@ export function ProjectsSection() {
               </CardContent>
 
               <CardFooter className="flex justify-between">
-                <Button asChild variant="outline" size="sm">
+                {project.github && (
+
+                  <Button asChild variant="outline" size="sm">
                   <a
                     href={project.github}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-1"
-                  >
+                    >
                     <Github className="h-4 w-4" />
                     <span>{t("projects.codeButton")}</span>
                   </a>
                 </Button>
-
+                  )}
                 {project.liveDemo && (
                   <Button asChild size="sm">
                     <a
