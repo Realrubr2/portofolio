@@ -93,8 +93,8 @@
           "liveDemo": "https://rijschooldriveit.nl/",
           "github": ""
         },  {
-          "title": "Homeserver",
-          "image": "/images/projects/rijschool.png",
+          "title": "Homelab",
+          "image": "/images/projects/proxmox.png",
           "description": "My home server, right now working as a mediaserver",
           "tags": [
             "proxmox",
@@ -240,8 +240,8 @@
           "github": ""
         },
          {
-          "title": "Homeserver",
-          "image": "/images/projects/rijschool.png",
+          "title": "Homelab",
+          "image": "/images/projects/proxmox.png",
           "description": "Mijn home server, dient nu als media server",
           "tags": [
             "proxmox",
