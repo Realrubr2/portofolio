@@ -92,6 +92,17 @@
           ],
           "liveDemo": "https://rijschooldriveit.nl/",
           "github": ""
+        },  {
+          "title": "Homeserver",
+          "image": "/images/projects/rijschool.png",
+          "description": "My home server, right now working as a mediaserver",
+          "tags": [
+            "proxmox",
+            "ubuntu-server",
+            "Plex"
+          ],
+          "liveDemo": "",
+          "github": ""
         }
       ]
     },
@@ -226,6 +237,18 @@
             "Wordpress"
           ],
           "liveDemo": "https://rijschooldriveit.nl/",
+          "github": ""
+        },
+         {
+          "title": "Homeserver",
+          "image": "/images/projects/rijschool.png",
+          "description": "Mijn home server, dient nu als media server",
+          "tags": [
+            "proxmox",
+            "ubuntu-server",
+            "Plex"
+          ],
+          "liveDemo": "",
           "github": ""
         }
       ]
