@@ -242,11 +242,13 @@
          {
           "title": "Homelab",
           "image": "/images/projects/proxmox.png",
-          "description": "Mijn home server, dient nu als media server",
+          "description": "    Zelf opgezet homelab met Proxmox VE waarin een Ubuntu Server VM draait. Binnen deze VM heb ik via Docker meerdere containers opgezet voor een media server (zoals Plex/Jellyfin).",
           "tags": [
             "proxmox",
             "ubuntu-server",
-            "Plex"
+            "Plex",
+            "docker",
+            "portainer"
           ],
           "liveDemo": "",
           "github": ""
